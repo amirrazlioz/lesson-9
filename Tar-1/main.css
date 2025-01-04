@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#Buttons {
+    display: flex;
+}
+
+button {
+    margin: 5px;
+    padding: 5px 10px;
+    font-size: 12px;
+}
+
+#colorBox {
+    width: 300px;
+    height: 300px;
+    background-color: white;
+    border: 2px solid #ccc;
+}
